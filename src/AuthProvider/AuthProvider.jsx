@@ -11,7 +11,7 @@ const auth = getAuth(app);
 
 const AuthProvider = ({ children }) => {
 
-    let [user, setuser] = useState('tusin')
+    let [user, setuser] = useState('')
 
 
     let SignUpUser = (email, password) => {
@@ -21,7 +21,9 @@ const AuthProvider = ({ children }) => {
 
     let authinfo = {
         user,
-        SignUpUser
+        SignUpUser,
+        setuser,
+        auth
 
     }
 

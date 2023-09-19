@@ -1,10 +1,11 @@
 import React, { useContext } from 'react';
 import { AuthContext } from '../../AuthProvider/AuthProvider';
+import { updateProfile } from 'firebase/auth';
 
 const SignUp = () => {
 
 
-    let { user, setuser, SignUpUser } = useContext(AuthContext)
+    let { user, setuser, SignUpUser, auth } = useContext(AuthContext)
 
     let handelSingup = (e) => {
         e.preventDefault()
@@ -20,6 +21,14 @@ const SignUp = () => {
             .then(result => {
                 let adduser = result.user;
                 console.log(adduser.email)
+                updateProfile(auth.currentUser, {
+                    displayName: name,
+                    photoURL: name,
+                })
+
+                setuser(adduser)
+
+
             })
             .catch(error => console.log(error.message))
 

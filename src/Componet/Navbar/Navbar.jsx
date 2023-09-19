@@ -5,7 +5,7 @@ import { AuthContext } from '../../AuthProvider/AuthProvider';
 const Navbar = () => {
 
     let { user } = useContext(AuthContext);
-    console.log(user)
+    console.log(user.displayName)
 
 
 
@@ -39,7 +39,22 @@ const Navbar = () => {
                 </div>
                 <div className="navbar-end">
 
-                    {user}
+                    {/* <div className={`hover:${user.email} hover:bg-white`}>
+
+                        {user ? user.displayName : ""}
+                    </div> */}
+
+                    <div className="navbar-end">
+                        <div className="relative group">
+                            <div className="hover:text-white">
+                                {user ? user.displayName : ""}
+                            </div>
+                            <div className="absolute opacity-0 bg-white text-black p-2 rounded-lg transition-opacity duration-300 ease-in-out transform translate-y-2 group-hover:opacity-100">
+                                {user.email}
+                            </div>
+                        </div>
+                    </div>
+
 
                     <ul className="menu menu-horizontal px-1 text-white text-xl">
                         <li> <Link to='/signin'> Sign In </Link> </li>
@@ -48,7 +63,7 @@ const Navbar = () => {
 
                 </div>
             </div>
-        </div>
+        </div >
     );
 };
 
