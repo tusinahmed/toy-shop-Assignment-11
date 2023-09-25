@@ -4,10 +4,21 @@ import { AuthContext } from '../../AuthProvider/AuthProvider';
 
 const Navbar = () => {
 
-    let { user } = useContext(AuthContext);
-    console.log(user.displayName)
+    let { user, logout } = useContext(AuthContext);
 
 
+
+
+    let handellogout = () => {
+        console.log('hello')
+        logout()
+            .then(() => {
+
+            })
+            .catch(error => error.message)
+
+
+    }
 
     return (
         <div>
@@ -37,29 +48,52 @@ const Navbar = () => {
 
                     </ul>
                 </div>
-                <div className="navbar-end">
+
+                <div className="ml-20">
 
                     {/* <div className={`hover:${user.email} hover:bg-white`}>
 
                         {user ? user.displayName : ""}
                     </div> */}
 
-                    <div className="navbar-end">
-                        <div className="relative group">
+
+                    {
+                        user ? <>  <div className="relative group">
                             <div className="hover:text-white">
-                                {user ? user.displayName : ""}
+                                <div className=" absolute opacity-0 bg-white text-black p-2 rounded-sm transition-opacity duration-300 ease-in-out transform translate-y-10 -translate-x-20 group-hover:opacity-100 whitespace-nowrap w-auto">
+                                    {user.email}
+                                </div>
+
+                                {user ? <> <div className='grid grid-cols-2'> <div>  <img className='w-8 rounded-xl' src={user.photoURL} /> </div>
+
+
+
+
+
+                                    <div>   <button onClick={handellogout} className='text-xl text-bold'> LogOut </button> </div>  </div>  </> : ""}
                             </div>
-                            <div className="absolute opacity-0 bg-white text-black p-2 rounded-lg transition-opacity duration-300 ease-in-out transform translate-y-2 group-hover:opacity-100">
-                                {user.email}
-                            </div>
+
+                        </div> </> : <>  <ul className="menu menu-horizontal px-1 text-white text-xl">
+                            <li> <Link to='/signin'> Sign In </Link> </li>
+                            <li> <Link to='/signup'> Sign Up </Link> </li>
+                        </ul></>
+                    }
+
+                    {/* <div className="relative group">
+                        <div className="hover:text-white">
+                            {user ? <><img className='w-8 rounded-xl' src={user.photoURL} /> </> : ""}
                         </div>
-                    </div>
+                        <div className="absolute opacity-0 bg-white text-black p-2 rounded-lg transition-opacity duration-300 ease-in-out transform translate-y-2 group-hover:opacity-100">
+                            {user.email}
+                        </div>
+                    </div> */}
 
 
-                    <ul className="menu menu-horizontal px-1 text-white text-xl">
+
+                    {/* <ul className="menu menu-horizontal px-1 text-white text-xl">
                         <li> <Link to='/signin'> Sign In </Link> </li>
                         <li> <Link to='/signup'> Sign Up </Link> </li>
-                    </ul>
+                    </ul> */}
 
                 </div>
             </div>

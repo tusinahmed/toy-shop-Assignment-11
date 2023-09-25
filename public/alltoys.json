@@ -1,0 +1,273 @@
+[
+    {
+      "Picture": "https://cdn.pixabay.com/photo/2015/11/16/15/57/fire-1045906_1280.jpg",
+      "Name": "Super Speed Racer",
+      "Price": "$24.99",
+      "Rating": 4.8,
+      "details": {
+        "Description": "The Super Speed Racer is an exciting toy car that promises endless fun for kids aged 4 and above. This high-speed wonder comes in a vibrant blue color and is crafted from durable plastic that can withstand hours of play. Its compact dimensions of 5 x 2 x 1.5 inches make it perfect for indoor and outdoor adventures. The recommended age ensures safe play. Whether zooming down hallways or conquering the backyard, this toy car is ready for action. It's available at Toy Haven, located at 456 Toy Street in Playville. Contact us at info@toyhaven.com for more information."
+      },
+      "category": "Toy Vehicles",
+      "seller": {
+        "Name": "Toy Haven",
+        "Location": "456 Toy Street, Playville",
+        "Contact": "info@toyhaven.com"
+      }
+    },
+    {
+      "Picture": "https://cdn.pixabay.com/photo/2015/11/16/15/57/fire-1045906_1280.jpg",
+      "Name": "Off-Road Adventure Cruiser",
+      "Price": "$29.99",
+      "Rating": 4.6,
+      "details": {
+        "Description": "Introducing the Off-Road Adventure Cruiser, a rugged and versatile toy car for adventurers aged 5 and up. Its striking green color and robust ABS plastic construction make it ready for off-road action. With dimensions of 7 x 4 x 3 inches, it's built for thrilling outdoor escapades. The recommended age ensures safe play. Get ready for epic adventures with this incredible toy car, available at Adventure Toys Inc., located at 789 Playtime Avenue in Funland. Contact us at sales@adventuretoys.com for more details."
+      },
+      "category": "Toy Vehicles",
+      "seller": {
+        "Name": "Adventure Toys Inc.",
+        "Location": "789 Playtime Avenue, Funland",
+        "Contact": "sales@adventuretoys.com"
+      }
+    },
+    {
+      "Picture": "https://cdn.pixabay.com/photo/2015/11/16/15/57/fire-1045906_1280.jpg",
+      "Name": "Convertible Dream Cruiser",
+      "Price": "$34.99",
+      "Rating": 4.9,
+      "details": {
+        "Description": "Experience the thrill of open-air driving with the Convertible Dream Cruiser. This sleek red toy car is designed for kids aged 6 and above who love adventure. Crafted from high-quality die-cast metal, it boasts durability and style. Its dimensions of 8 x 3.5 x 2 inches provide ample room for imaginative play. The recommended age ensures safe enjoyment. You can find this dream cruiser at Dreamy Toys World, located at 123 Dream Street in Fantasyville. Contact us at dreamytoys@example.com for more information."
+      },
+      "category": "Toy Vehicles",
+      "seller": {
+        "Name": "Dreamy Toys World",
+        "Location": "123 Dream Street, Fantasyville",
+        "Contact": "dreamytoys@example.com"
+      }
+    },
+    {
+      "Picture": "https://cdn.pixabay.com/photo/2015/11/16/15/57/fire-1045906_1280.jpg",
+      "Name": "Dino Adventure Jeep",
+      "Price": "$39.99",
+      "Rating": 4.5,
+      "details": {
+        "Description": "Embark on prehistoric adventures with the Dino Adventure Jeep! This exciting toy car is designed for young explorers aged 3 and above. It comes in a vibrant yellow color and is made from durable, child-safe materials. With dimensions of 6.5 x 3 x 2 inches, it's the perfect size for little hands. The recommended age ensures safe play. Explore the world of dinosaurs with this fun toy, available at Dino World Toys, located at 789 Dino Avenue in Jurassic City. Contact us at dinoworld@example.com for more details."
+      },
+      "category": "Adventure Toys",
+      "seller": {
+        "Name": "Dino World Toys",
+        "Location": "789 Dino Avenue, Jurassic City",
+        "Contact": "dinoworld@example.com"
+      }
+    },
+    {
+      "Picture": "https://cdn.pixabay.com/photo/2015/11/16/15/57/fire-1045906_1280.jpg",
+      "Name": "Space Explorer Rover",
+      "Price": "$49.99",
+      "Rating": 4.7,
+      "details": {
+        "Description": "Blast off into space with the Space Explorer Rover! This futuristic toy car is designed for aspiring astronauts aged 7 and above. Its sleek silver design and advanced features make it a must-have for space enthusiasts. With dimensions of 8 x 4 x 3 inches, it's ready for interstellar missions. The recommended age ensures safe play. Embark on space adventures with this incredible rover, available at Cosmic Toys, located at 321 Star Avenue in Spaceport City. Contact us at cosmic@example.com for more information."
+      },
+      "category": "Space Toys",
+      "seller": {
+        "Name": "Cosmic Toys",
+        "Location": "321 Star Avenue, Spaceport City",
+        "Contact": "cosmic@example.com"
+      }
+    },
+    {
+      "Picture": "https://cdn.pixabay.com/photo/2015/11/16/15/57/fire-1045906_1280.jpg",
+      "Name": "Police Pursuit Cruiser",
+      "Price": "$19.99",
+      "Rating": 4.4,
+      "details": {
+        "Description": "The Police Pursuit Cruiser is perfect for young law enforcement enthusiasts aged 3 and above. This realistic toy car features police decals and flashing lights for an authentic experience. Crafted from durable plastic, it can withstand high-speed chases. With dimensions of 6 x 2.5 x 2 inches, it's great for indoor and outdoor play. The recommended age ensures safe adventures. Protect and serve with this exciting toy, available at Justice Toys, located at 567 Law Street in Copville. Contact us at justice@example.com for more details."
+      },
+      "category": "Emergency Vehicles",
+      "seller": {
+        "Name": "Justice Toys",
+        "Location": "567 Law Street, Copville",
+        "Contact": "justice@example.com"
+      }
+    },
+    {
+      "Picture": "https://cdn.pixabay.com/photo/2015/11/16/15/57/fire-1045906_1280.jpg",
+      "Name": "Classic Roadster",
+      "Price": "$39.99",
+      "Rating": 4.7,
+      "details": {
+        "Description": "Experience the charm of the Classic Roadster, a timeless toy car suitable for kids aged 4 and above. Its vintage design and high-quality craftsmanship make it a collector's dream. Crafted from sturdy metal, it's built to last. With dimensions of 7.5 x 3.5 x 2.5 inches, it's a delight to play with. The recommended age ensures safe enjoyment. Own a piece of automotive history with this classic toy, available at Retro Toys Emporium, located at 789 Nostalgia Lane in Vintageville. Contact us at retrotoys@example.com for more information."
+      },
+      "category": "Vintage Toys",
+      "seller": {
+        "Name": "Retro Toys Emporium",
+        "Location": "789 Nostalgia Lane, Vintageville",
+        "Contact": "retrotoys@example.com"
+      }
+    },
+    {
+      "Picture": "https://cdn.pixabay.com/photo/2015/11/16/15/57/fire-1045906_1280.jpg",
+      "Name": "Monster Truck Mayhem",
+      "Price": "$49.99",
+      "Rating": 4.9,
+      "details": {
+        "Description": "Get ready for Monster Truck Mayhem! This oversized toy truck is designed for extreme fun for kids aged 4 and above. Its massive wheels and rugged design make it perfect for crushing obstacles. Crafted from tough plastic, it's built for high-impact adventures. With dimensions of 10 x 6 x 5 inches, it's a monster-sized thrill. The recommended age ensures safe play. Conquer obstacles with this incredible toy, available at Monster Madness Toys, located at 123 Thrill Avenue in Adrenaline City. Contact us at monstermadness@example.com for more details."
+      },
+      "category": "Monster Trucks",
+      "seller": {
+        "Name": "Monster Madness Toys",
+        "Location": "123 Thrill Avenue, Adrenaline City",
+        "Contact": "monstermadness@example.com"
+      }
+    },
+    {
+      "Picture": "https://cdn.pixabay.com/photo/2015/11/16/15/57/fire-1045906_1280.jpg",
+      "Name": "Safari Adventure Jeep",
+      "Price": "$36.99",
+      "Rating": 4.6,
+      "details": {
+        "Description": "Embark on a safari adventure with this rugged toy jeep! Designed for young explorers aged 4 and above, it comes in a jungle green color and is made from durable plastic. Its dimensions of 7 x 4 x 3 inches provide ample space for imaginative play. The recommended age ensures safe adventures. Explore the wild with this exciting toy, available at Safari Toys Inc., located at 456 Safari Drive in Wildland. Contact us at safari@example.com for more information."
+      },
+      "category": "Adventure Toys",
+      "seller": {
+        "Name": "Safari Toys Inc.",
+        "Location": "456 Safari Drive, Wildland",
+        "Contact": "safari@example.com"
+      }
+    },
+    {
+      "Picture": "https://cdn.pixabay.com/photo/2015/11/16/15/57/fire-1045906_1280.jpg",
+      "Name": "Fire Chief Rescue Truck",
+      "Price": "$29.99",
+      "Rating": 4.7,
+      "details": {
+        "Description": "Be a hero with the Fire Chief Rescue Truck! This toy truck is perfect for aspiring firefighters aged 3 and above. It features realistic fire department decals and a working siren for thrilling rescues. Crafted from durable plastic, it's ready for action. With dimensions of 6 x 2.5 x 2 inches, it's easy for young heroes to handle. The recommended age ensures safe play. Save the day with this exciting toy, available at Fire & Rescue Toys, located at 789 Hero Street in Firetown. Contact us at fireandrescue@example.com for more details."
+      },
+      "category": "Emergency Vehicles",
+      "seller": {
+        "Name": "Fire & Rescue Toys",
+        "Location": "789 Hero Street, Firetown",
+        "Contact": "fireandrescue@example.com"
+      }
+    },
+    {
+      "Picture": "https://cdn.pixabay.com/photo/2015/11/16/15/57/fire-1045906_1280.jpg",
+      "Name": "Formula 1 Racing Car",
+      "Price": "$54.99",
+      "Rating": 4.9,
+      "details": {
+        "Description": "Experience the excitement of Formula 1 racing with this sleek racing car! Designed for young speed enthusiasts aged 6 and above, it features an aerodynamic design and realistic racing decals. Crafted from high-quality materials, it's built for high-speed adventures. With dimensions of 9 x 4 x 2 inches, it's ready for thrilling races. The recommended age ensures safe play. Race to victory with this incredible toy, available at Speedster Toys, located at 123 Raceway Drive in Speedville. Contact us at speedster@example.com for more information."
+      },
+      "category": "Racing Cars",
+      "seller": {
+        "Name": "Speedster Toys",
+        "Location": "123 Raceway Drive, Speedville",
+        "Contact": "speedster@example.com"
+      }
+    },
+    {
+      "Picture": "https://cdn.pixabay.com/photo/2015/11/16/15/57/fire-1045906_1280.jpg",
+      "Name": "Construction Crew Truck",
+      "Price": "$31.99",
+      "Rating": 4.6,
+      "details": {
+        "Description": "Join the construction crew with this realistic toy truck! Designed for young builders aged 3 and above, it features construction site decals and a functioning crane for imaginative play. Crafted from durable plastic, it's ready for heavy-duty tasks. With dimensions of 7 x 4 x 3 inches, it's the perfect size for young builders. The recommended age ensures safe adventures. Build and create with this exciting toy, available at Builder's Paradise Toys, located at 789 Build Street in Construction City. Contact us at buildersparadise@example.com for more details."
+      },
+      "category": "Construction Vehicles",
+      "seller": {
+        "Name": "Builder's Paradise Toys",
+        "Location": "789 Build Street, Construction City",
+        "Contact": "buildersparadise@example.com"
+      }
+    },
+    {
+      "Picture": "https://cdn.pixabay.com/photo/2015/11/16/15/57/fire-1045906_1280.jpg",
+      "Name": "Ocean Explorer Submarine",
+      "Price": "$27.99",
+      "Rating": 4.7,
+      "details": {
+        "Description": "Dive into underwater adventures with the Ocean Explorer Submarine! Designed for young oceanographers aged 5 and above, it features a realistic submarine design and a periscope for exploring the depths. Crafted from durable materials, it's built for underwater exploration. With dimensions of 8 x 4 x 3 inches, it's ready for deep-sea missions. The recommended age ensures safe play. Explore the ocean with this incredible toy, available at Oceanic Toys, located at 123 Dive Avenue in Seaside City. Contact us at oceanic@example.com for more information."
+      },
+      "category": "Submarine Toys",
+      "seller": {
+        "Name": "Oceanic Toys",
+        "Location": "123 Dive Avenue, Seaside City",
+        "Contact": "oceanic@example.com"
+      }
+    },
+    {
+      "Picture": "https://cdn.pixabay.com/photo/2015/11/16/15/57/fire-1045906_1280.jpg",
+      "Name": "Daring Desert Buggy",
+      "Price": "$33.99",
+      "Rating": 4.8,
+      "details": {
+        "Description": "Conquer the desert with the Daring Desert Buggy! This off-road toy buggy is designed for young adventurers aged 6 and above. It features a rugged design and oversized wheels for tackling dunes and rough terrain. Crafted from durable materials, it's built for desert adventures. With dimensions of 8 x 4 x 3 inches, it's ready for thrilling rides. The recommended age ensures safe play. Embark on desert expeditions with this incredible toy, available at Desert Adventure Toys, located at 789 Sand Dune Road in Aridville. Contact us at desertadventure@example.com for more details."
+      },
+      "category": "Off-Road Vehicles",
+      "seller": {
+        "Name": "Desert Adventure Toys",
+        "Location": "789 Sand Dune Road, Aridville",
+        "Contact": "desertadventure@example.com"
+      }
+    },
+    {
+      "Picture": "https://cdn.pixabay.com/photo/2015/11/16/15/57/fire-1045906_1280.jpg",
+      "Name": "Police SWAT Truck",
+      "Price": "$44.99",
+      "Rating": 4.9,
+      "details": {
+        "Description": "Join the elite SWAT team with the Police SWAT Truck! This tactical toy truck is designed for young heroes aged 4 and above. It features SWAT decals and working lights and sirens for high-intensity missions. Crafted from durable plastic, it's ready for action. With dimensions of 9 x 4.5 x 3 inches, it's the perfect size for playtime adventures. The recommended age ensures safe play. Secure the city with this exciting toy, available at City Heroes Toys, located at 123 Justice Lane in Metro City. Contact us at cityheroes@example.com for more information."
+      },
+      "category": "Emergency Vehicles",
+      "seller": {
+        "Name": "City Heroes Toys",
+        "Location": "123 Justice Lane, Metro City",
+        "Contact": "cityheroes@example.com"
+      }
+    },
+    {
+      "Picture": "https://cdn.pixabay.com/photo/2015/11/16/15/57/fire-1045906_1280.jpg",
+      "Name": "Wildlife Safari Jeep",
+      "Price": "$36.99",
+      "Rating": 4.7,
+      "details": {
+        "Description": "Embark on a wildlife safari with the Wildlife Safari Jeep! This rugged toy jeep is designed for young explorers aged 4 and above. It comes in a safari green color and is made from durable plastic. Its dimensions of 7 x 4 x 3 inches provide ample space for imaginative play. The recommended age ensures safe adventures. Explore the wild with this exciting toy, available at Safari Adventures Inc., located at 456 Safari Road in Wildland. Contact us at safariadventures@example.com for more information."
+      },
+      "category": "Adventure Toys",
+      "seller": {
+        "Name": "Safari Adventures Inc.",
+        "Location": "456 Safari Road, Wildland",
+        "Contact": "safariadventures@example.com"
+      }
+    },
+    {
+      "Picture": "https://cdn.pixabay.com/photo/2015/11/16/15/57/fire-1045906_1280.jpg",
+      "Name": "City Fire Rescue Truck",
+      "Price": "$29.99",
+      "Rating": 4.6,
+      "details": {
+        "Description": "Be a hero with the City Fire Rescue Truck! This toy truck is perfect for aspiring firefighters aged 3 and above. It features realistic fire department decals and a working siren for thrilling rescues. Crafted from durable plastic, it's ready for action. With dimensions of 6 x 2.5 x 2 inches, it's easy for young heroes to handle. The recommended age ensures safe play. Save the day with this exciting toy, available at Fire Heroes Toys, located at 789 Firefighter Avenue in Firetown. Contact us at fireheroes@example.com for more details."
+      },
+      "category": "Emergency Vehicles",
+      "seller": {
+        "Name": "Fire Heroes Toys",
+        "Location": "789 Firefighter Avenue, Firetown",
+        "Contact": "fireheroes@example.com"
+      }
+    },
+    {
+      "Picture": "https://cdn.pixabay.com/photo/2015/11/16/15/57/fire-1045906_1280.jpg",
+      "Name": "Formula 1 Racing Car",
+      "Price": "$54.99",
+      "Rating": 4.9,
+      "details": {
+        "Description": "Experience the excitement of Formula 1 racing with this sleek racing car! Designed for young speed enthusiasts aged 6 and above, it features an aerodynamic design and realistic racing decals. Crafted from high-quality materials, it's built for high-speed adventures. With dimensions of 9 x 4 x 2 inches, it's ready for thrilling races. The recommended age ensures safe play. Race to victory with this incredible toy, available at Speedster Toys, located at 123 Raceway Drive in Speedville. Contact us at speedster@example.com for more information."
+      },
+      "category": "Racing Cars",
+      "seller": {
+        "Name": "Speedster Toys",
+        "Location": "123 Raceway Drive, Speedville",
+        "Contact": "speedster@example.com"
+      }
+    }
+  ]
+  
